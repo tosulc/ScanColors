@@ -25,5 +25,6 @@ Possible uses:
 	-Colorblind help to recognize colors (shopping hair color, etc)
 	-Counting things.
 
+Hope it will help someone.
 
 	
